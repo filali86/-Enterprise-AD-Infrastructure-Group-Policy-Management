@@ -87,7 +87,7 @@ This project demonstrates the complete design and implementation of an enterpris
 ![Computer Object Organization](screenshots/04.png)
 ![Server Properties and Configuration](screenshots/05.png)
 ![Server Infrastructure Organization](screenshots/06.png)
-![GPO Creation and Management](screenshots/07.png)
+![GPO Creation and Management](screenshots/7.png)
 ![Password Policy Configuration](screenshots/08.png)
 ![Password Complexity Settings](screenshots/09.png)
 ![Desktop Wallpaper Policy](screenshots/10.png)
